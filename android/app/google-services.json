@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "414976202812",
+    "project_id": "app-tcc-8aba0",
+    "storage_bucket": "app-tcc-8aba0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414976202812:android:16bfaad4738aaaee01cb39",
+        "android_client_info": {
+          "package_name": "com.cruz.app_tcc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414976202812-tc66p95s2jhck7lqdl6mv2s88hjb539p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvcl636PpHSv90pdT-hOjZfObuaMtsiEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414976202812-tc66p95s2jhck7lqdl6mv2s88hjb539p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
